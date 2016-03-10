@@ -1,1 +1,5 @@
 git_test!
+
+reset test
+
+reset test
